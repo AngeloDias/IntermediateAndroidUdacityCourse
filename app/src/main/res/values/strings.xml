@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="hello_android_txt">Hello Android!</string>
+    <string name="roll_txt">Roll</string>
+    <string name="roll_alternative_txt">Let\'s roll!</string>
+</resources>
